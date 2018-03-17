@@ -1,7 +1,7 @@
 {
-  "name": "youtubeclientview",
+  "name": "reactjs_experiment",
   "version": "0.0.1",
-  "description": "ReactJS web app for YoutubeClient",
+  "description": "ReactJS web app",
   "main": "index.jsx",
   "scripts": {
     "dev": "webpack --hot -d --watch",
