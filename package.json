@@ -13,12 +13,12 @@
   "author": "Hugo Areias",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.16.4",
     "immutable": "^3.8.2",
-    "lodash": "^4.17.5",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
-    "react-hot-loader": "^4.0.0"
+    "lodash": "^4.17.11",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-hot-loader": "^4.6.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
