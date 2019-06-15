@@ -4,3 +4,7 @@ yarn-error.log
 
 .DS_Store
 .DS_Store?
+
+yarn.lock
+package-lock.json
+package.json
